@@ -1,4 +1,4 @@
-name: build-vr-volumeviewer-linux
+name: build-linux
 
 on:  workflow_dispatch
 
